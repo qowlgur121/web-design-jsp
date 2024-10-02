@@ -4,14 +4,13 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>Implicit Objects</title>
 </head>
 <body>
-	<form action="process.jsp" method" = "post">
-	
+	<form action="process.jsp" method="post">
 		<p>
-		이름 : <input type="text" name="name">
-		<input type="submit" value="전송">
+			이름 : <input type="text" name="name">
+			<input type="submit" value="전송"> 
 	</form>
 </body>
 </html>
